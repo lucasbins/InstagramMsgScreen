@@ -1,6 +1,6 @@
 # instagram
 
-A new Flutter project.
+feito por: Lucas Braga, Guilherme R., Pedro Henrique.
 
 ## Getting Started
 
